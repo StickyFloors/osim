@@ -3,7 +3,7 @@
 This directory catalogs practioner use cases that sFractal Consulting values
 in their work creating software, evaluating, and using software.
 
-The use case are organized hierarchically, categorized by how information modeling is used:
+The use case are organized hierarchically and categorized by how information modeling is used:
 1. Extraction of Supply Chain Information from Data
 2. Deciding based on Supply Chain Information
 3. Combining Supply Chain Information, particularly from disparate sources
