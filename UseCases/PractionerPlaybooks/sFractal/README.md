@@ -101,7 +101,7 @@ blah overview
 ### 1.8 Extraction of Risk Information
 blah overview\
 
-note this may be derived info from other extracted information (ie output of Category 3 analysis)
+Note: this may be derived info from other extracted information (ie output of Category 3 analysis)
 or it may be 'extracted' directly from risk data (eg data supplied to/from GRC systems eg about the company producing the software).
 
 [Use Case 1.8 Extraction of Risk Information](./uc01.08-extract_risk.md)
