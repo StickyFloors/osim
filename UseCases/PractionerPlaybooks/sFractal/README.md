@@ -63,7 +63,7 @@ For more details, see
 ### 1.3 Extraction of Vulnerability Information
 blah overview
 
-note could be deriving from SPDX or CycloneDX data or could be deriving from NVD or other sources of vulnerability data.
+Note: could be deriving from SPDX or CycloneDX data or could be deriving from NVD or other sources of vulnerability data.
 It could even be derived from direct security research (ie this is the 'original source' of the 'information').
 
 [Use Case 1.3 Extraction of Vulnerability Information](./uc01.03-extract_vulnerability.md)
