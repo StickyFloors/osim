@@ -184,14 +184,14 @@ the Log4Shell vunerability.
 
 Should this be "one" use case or "several" classes of use cases or "a gazillion specific use cases"?
 
-Simplest example of a conversion use case is a software developer is making an application which 
-uses two components in addition to their software. Component one has an SPDX SBOM. 
-Component two has a CycloneDX SBOM.
+Simplest example of a conversion use case is a software developer making an application which 
+uses two components in addition to their software. Component 1 has an SPDX SBOM. 
+Component 2 has a CycloneDX SBOM.
 The software developer wants to make both an SPDX SBOM and an equivilent CycloneDX SBOM
-for his application containing his code, component 1, and component 2.
-This involves converting Component one SPDX to CycloneDX, and Component 2 CycloneDX to SPDX.
+for his application containing his code, Component 1, and Component 2.
+This involves converting Component 1 SPDX to CycloneDX, and Component 2 CycloneDX to SPDX.
 In both cases, this involves first use case 1.1 (deriving the SBOM information from the resprective data formats),
 combining the information, and producing both SPDX and CycloneDX data from the combined information.
 
-There are many variants to the above using all combo's of the 9 extraction use cases, all the category 2 and 3 use cases,
+There are many variants to the above using all combos of the 9 extraction use cases, all the category 2 and 3 use cases,
 and using for many different uses (eg [all 13 of the supply chain use cases](../../SupplyChain/)).
