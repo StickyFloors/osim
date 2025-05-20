@@ -110,8 +110,8 @@ or it may be 'extracted' directly from risk data (eg data supplied to/from GRC s
 ### 1.9 Extraction of Trust Information
 blah overview
 
-should 'confidence' (eg in SBOM itself) be a differnt type of information or part of 'trust'?
-It is derived info from other factors such as completeness, quality, provenance, type of SBOM, etc.
+Should 'confidence' (eg in SBOM itself) be a differnt type of information or part of 'trust'?
+It is derived info from other factors such as completeness, quality, provenance, type of SBOM, etc?
 
 [Use Case 1.9 Extraction of Trust Information](./uc01.09-extract_trust.md)
 
