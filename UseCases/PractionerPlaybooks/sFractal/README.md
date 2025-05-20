@@ -163,13 +163,13 @@ a new "whatsoever" widget)
 ### 2.1 Deciding something based on what component/versions present 
 The simplest decision use case is a subset of 
 [Supply Chain Use Case 6 - usage across an organization](../../SupplyChain/uc06_component_useage.md)
-and asks the simple question "Is component blah present?".
+and asks the simple question "Is component 'blah' present?".
 This use case has many variants. 
 The simplest example would be "Is Log4J present anywhere in my organization?".
-sFractal Counsulting would 'assume' (dangerous) the answer to be "no" 
+sFractal Counsulting would 'assume' (dangerous idea, they know) the answer to be "no" 
 since Log4J is a java library,
 and sFractal only programs in Elixir (90%), Erlang, Python, or C.
-But better process would be actaully extract the information and make sure that component is not present
+But better process would be to actually extract the information and make sure that said component is not present
 anywhere in it's enterprise.
 Note that this is a 'yes'/'no' question. 
 Only if the answer is yes do you need to go to other use cases
