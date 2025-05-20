@@ -1,6 +1,6 @@
 # Practioner Playbooks
 
-This directory represents practioner use cases of value to sFractal Consulting
+This directory catalogs practioner use cases that sFractal Consulting values
 in their work creating software, evaluating, and using software.
 
 The use case are organized hierarchically, categorized by how information modeling is used:
