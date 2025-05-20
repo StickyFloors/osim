@@ -116,7 +116,7 @@ It is derived info from other factors such as completeness, quality, provenance,
 [Use Case 1.9 Extraction of Trust Information](./uc01.09-extract_trust.md)
 
 ### 1.10 Extraction of Other Metadata
-should probably be a lower number. no clue how to order these.
+Note: this should probably be a lower number. Working through item order hierarchy in current draft.
 
 
 This use case is derived from 
