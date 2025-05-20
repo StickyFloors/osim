@@ -85,7 +85,7 @@ reference
 ### 1.6 Extraction of Completeness Information
 blah overview
 
-Is this it's own category with 'know unknowns' and 'unknown unknowns' or is it a subset of quality.
+Is this its own category with 'know unknowns' and 'unknown unknowns' or is it a subset of quality?
 Does just asking this question make it it's own category of information?
 Has this kind of distinction been made in other infomation modeling efforts?
 
