@@ -46,7 +46,7 @@ Note this is the extraction of the licensing data from:
 
 Using the licensing information is in other use cases, mostly 
 [Category 2 - Deciding based on Supply Chain Information](README.md#2-deciding-based-on-supply-chain-information). e.g.:
-- a software developer, seeing a copy-left licence, deciding not to use a library 
+- a software developer, seeing a copy-left license, deciding not to use a library 
 - a customer deciding not to buy a product because of a 'no military' license 
 - a Mergers & Acqusition Risk Assessment Team using licensing data as part of [Supply Use Case 8 - Investment Risk](../../SupplyChain/uc08_investment_risk.md) 
 - a Corporate Risk Officer using licensing data as part of [Supply Use Case 11 - GRC](../../SupplyChain/uc11_grc.md)
