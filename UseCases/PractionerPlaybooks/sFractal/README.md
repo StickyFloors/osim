@@ -51,7 +51,7 @@ Using the licensing information is in other use cases, mostly
 - a Mergers & Acqusition Risk Assessment Team using licensing data as part of [Supply Use Case 8 - Investment Risk](../../SupplyChain/uc08_investment_risk.md) 
 - a Corporate Risk Officer using licensing data as part of [Supply Use Case 11 - GRC](../../SupplyChain/uc11_grc.md)
 
-Note in implementing the information model for this use case that there is an ISO standard on the licenses
+Note: in implementing the information model for this use case, there is an ISO standard on the licenses
 used by both SPDX and CycloneDX. 
 The standard references 
 https://spdx.org/licenses/ so we should use it to derive our licensing information model.
